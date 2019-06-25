@@ -6,3 +6,4 @@ competing change
 
 Yet another change, interested in coordinating changes in two repositories.
 
+trying to get Jira integration to work for JGS-1
